@@ -1,1 +1,36 @@
+h1 {
+    font-family: sans-serif;
+    color: rgb(0, 192, 3);
+}
 
+h2 {
+    font-family: sans-serif;
+    color: rgb(4, 102, 187);
+    margin: 20px;
+}
+
+#game-button {
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(25, 210, 86);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+}
+
+#game-button:hover {
+    background-color: rgb(45, 233, 67);
+}
+
+#game-button-coming-soon {
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(148, 148, 148);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+}
