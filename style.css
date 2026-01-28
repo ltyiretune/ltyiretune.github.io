@@ -44,6 +44,8 @@ button {
     flex: 0 0 auto;
     text-align: center;
     border-style: solid;
+    border-width: 5px;
+    border-color: rgb(87, 87, 87);
     
 }
 
